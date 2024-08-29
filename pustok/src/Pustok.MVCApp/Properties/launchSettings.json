@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Pustok.MVCApp": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63148;http://localhost:63149"
+    }
+  }
+}

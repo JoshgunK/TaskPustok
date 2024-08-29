@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\PustokMVC-main\\pustok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C81AC8AA-3A49-4442-B128-7DF48EA0B9BB}|src\\Pustok.MVCApp\\Pustok.MVCApp.csproj|c:\\users\\emre\\desktop\\pustokmvc-main\\pustok\\src\\pustok.mvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C81AC8AA-3A49-4442-B128-7DF48EA0B9BB}|src\\Pustok.MVCApp\\Pustok.MVCApp.csproj|solutionrelative:src\\pustok.mvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81AC8AA-3A49-4442-B128-7DF48EA0B9BB}|src\\Pustok.MVCApp\\Pustok.MVCApp.csproj|c:\\users\\emre\\desktop\\pustokmvc-main\\pustok\\src\\pustok.mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81AC8AA-3A49-4442-B128-7DF48EA0B9BB}|src\\Pustok.MVCApp\\Pustok.MVCApp.csproj|solutionrelative:src\\pustok.mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81AC8AA-3A49-4442-B128-7DF48EA0B9BB}|src\\Pustok.MVCApp\\Pustok.MVCApp.csproj|c:\\users\\emre\\desktop\\pustokmvc-main\\pustok\\src\\pustok.mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C81AC8AA-3A49-4442-B128-7DF48EA0B9BB}|src\\Pustok.MVCApp\\Pustok.MVCApp.csproj|solutionrelative:src\\pustok.mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81AC8AA-3A49-4442-B128-7DF48EA0B9BB}|src\\Pustok.MVCApp\\Pustok.MVCApp.csproj|c:\\users\\emre\\desktop\\pustokmvc-main\\pustok\\src\\pustok.mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81AC8AA-3A49-4442-B128-7DF48EA0B9BB}|src\\Pustok.MVCApp\\Pustok.MVCApp.csproj|solutionrelative:src\\pustok.mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.MVCApp\\Areas\\Admin\\Controllers\\BookController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.MVCApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.Business\\Services\\Interfaces\\IBookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.Business\\Services\\Implementations\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.MVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.MVCApp\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.MVCApp\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.MVCApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:23:05.657Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\PustokMVC-main\\pustok\\src\\Pustok.MVCApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\Pustok.MVCApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\PustokMVC-main\\pustok\\src\\Pustok.MVCApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\Pustok.MVCApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:29:27.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\PustokMVC-main\\pustok\\src\\Pustok.MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\Pustok.MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\PustokMVC-main\\pustok\\src\\Pustok.MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\Pustok.MVCApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T17:29:01.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\PustokMVC-main\\pustok\\src\\Pustok.MVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Pustok.MVCApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\PustokMVC-main\\pustok\\src\\Pustok.MVCApp\\appsettings.json",
+              "RelativeToolTip": "src\\Pustok.MVCApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T17:28:22.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\PustokMVC-main\\pustok\\src\\Pustok.MVCApp\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Pustok.MVCApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\PustokMVC-main\\pustok\\src\\Pustok.MVCApp\\Program.cs",
+              "RelativeToolTip": "src\\Pustok.MVCApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:27:55.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.Business\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.Business\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.Business\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.Business\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:35:27.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.MVCApp\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.MVCApp\\Areas\\Admin\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.MVCApp\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.MVCApp\\Areas\\Admin\\Controllers\\BookController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:55:17.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.Business\\Services\\Implementations\\BookService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.Business\\Services\\Implementations\\BookService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.Business\\Services\\Implementations\\BookService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\USER\\Desktop\\PustokMVCAAPP\\pustok\\src\\Pustok.Business\\Services\\Implementations\\BookService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwB8BAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:06:43.735Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
